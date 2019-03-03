@@ -70,7 +70,8 @@ ul {
 }
 
 .contact form button {
-	width: 100%;
+
+	/*width: 207.5%;*/
 	background: #c9e6ff;
 	border: 0;
 	text-transform: uppercase;
@@ -80,7 +81,7 @@ ul {
 	background- color: red;
 }*/
 
-.contact form button: hover, .contact form button: focus {
+.contact form button:hover,.contact form button:focus {
 	background: #92bde7;
 	color: #fff;
 	outline: 0;
